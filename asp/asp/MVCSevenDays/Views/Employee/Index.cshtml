@@ -1,0 +1,69 @@
+﻿@using ViewModel
+@model EmployeeListViewModel
+@{
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+@section TitleSection{
+    MyView
+}
+@section ContentBody{
+    <div>
+        Welcome to MVC5 lession!       ————gyk
+    </div>
+    <div>
+
+        @{
+            //MVCSevenDays.Models.Employee emp = (MVCSevenDays.Models.Employee)ViewData["Employee"];
+            Models.Employee emp = (Models.Employee)ViewBag.Employee;
+        }
+        <b>
+            Employee Details
+            <br />
+        </b>
+        <!--
+        <div style="text-align:right">
+            
+            <a href="/Authentication/Logout">Logout</a>
+        </div>
+        <hr />-->
+        <!--<a href="/Employee/AddNew">Add New</a>-->
+        @{
+            Html.RenderAction("GetAddNewLink");
+        }
+        <div>
+            <table border="1">
+                <tr>
+                    <th>Employee Name</th>
+                    <th>Salary</th>
+                </tr>
+                @foreach (EmployeeViewModel item in Model.Employees)
+                {
+                    <tr>
+                        <td>@item.EmployeeName</td>
+                        <td style="background-color:@item.SalaryColor">@item.Salary</td>
+                    </tr>
+                }
+            </table>
+
+        </div>
+
+    </div>
+
+}
+<!--
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyView</title>
+</head>
+<body>
+
+</body>
+</html>
+    -->
+<!--using MVCSevenDays.Models   此处不用Employee类，而用EmployeeViewModel类
+model Employee
+    //model EmployeeViewModel     单个对象
+-->

@@ -1,0 +1,5 @@
+E:\Visual Studio 2013\Projects\MVCSevenDays\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\MVCSevenDays\ViewModel\bin\Debug\ViewModel.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\ViewModel\bin\Debug\ViewModel.pdb
+E:\Visual Studio 2013\Projects\MVCSevenDays\ViewModel\obj\Debug\ViewModel.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\ViewModel\obj\Debug\ViewModel.pdb

@@ -10,3 +10,15 @@ E:\Visual Studio 2013\Projects\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFram
 E:\Visual Studio 2013\Projects\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
 E:\Visual Studio 2013\Projects\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFramework.xml
 E:\Visual Studio 2013\Projects\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\gyk\asp.netMVCLearning\MVCSevenDays\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,14 @@
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\BusinessEntities.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\BusinessEntities.pdb
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Visual Studio 2013\Projects\MVCSevenDays\BusinessLayer\obj\Debug\BusinessLayer.pdb
